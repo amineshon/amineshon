@@ -6,9 +6,9 @@
 in the first place, my perseverance may catch your eye, because I am always looking to practice and learn new things. I always try to have good friends and I always try to use the experiences of others
 
 
-<ul>
-            <li style="color: #f9bc2f">FrontEnd Developer</li>
-            <li  style="color: #f9bc2f">Blockchain Developer</li>
+<ul style="color: #f9bc2f !important">
+            <li style="color: #f9bc2f !important">FrontEnd Developer</li>
+            <li  style="color: #f9bc2f !important">Blockchain Developer</li>
           </ul>
 
 
