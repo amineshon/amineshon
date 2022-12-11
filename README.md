@@ -40,6 +40,6 @@ in the first place, my perseverance may catch your eye, because I am always look
 </p>
 <br>
 
-[![Amineshon Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=amineshon&custom_title=Amin%20Mohammadi%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://aminmohammadi.me)
+
 
 
