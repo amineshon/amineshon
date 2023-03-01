@@ -3,9 +3,11 @@
 </h1>
 
 
-<p align="center">
-    <img style="width: 15%;" src="https://aminmohammadi.me/github/sticker-hi.webp" alt="sticker">
-    <img style="width: 15%;" src="https://aminmohammadi.me/github/sticker.webp" alt="sticker">
+ <p align="center">
+    <a href="https://aminmohammadi.me/">
+      <img style="width: 15%;" src="https://aminmohammadi.me/github/sticker-hi.webp" alt="sticker">
+      <img style="width: 15%;" src="https://aminmohammadi.me/github/sticker.webp" alt="sticker">
+    </a>
   </p>
 
 
