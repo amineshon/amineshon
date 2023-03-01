@@ -3,6 +3,12 @@
 </h1>
 
 
+<p align="center">
+    <img style="width: 15%;" src="https://aminmohammadi.me/github/sticker-hi.webp" alt="sticker">
+    <img style="width: 15%;" src="https://aminmohammadi.me/github/sticker.webp" alt="sticker">
+  </p>
+
+
 in the first place, my perseverance may catch your eye, because I am always looking to practice and learn new things. I always try to have good friends and I always try to use the experiences of others
 
 
