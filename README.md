@@ -10,7 +10,6 @@
     </a>
   </p>
 
-[![wakatime](https://wakatime.com/badge/user/1da6cff2-fbd7-4e58-938e-8736ad5df0f3/project/0e77cb11-3d90-4679-8d71-adeb89c6cf84.svg)](https://wakatime.com/badge/user/1da6cff2-fbd7-4e58-938e-8736ad5df0f3/project/0e77cb11-3d90-4679-8d71-adeb89c6cf84)
 
 [![wakatime](https://wakatime.com/badge/user/1da6cff2-fbd7-4e58-938e-8736ad5df0f3.svg)](https://wakatime.com/@1da6cff2-fbd7-4e58-938e-8736ad5df0f3)
 
@@ -53,4 +52,4 @@ in the first place, my perseverance may catch your eye, because I am always look
 
 
 
-
+<figure><embed src="https://wakatime.com/share/@amineshon/ebeb8ad8-a860-4e9f-aa63-68312b266c4f.svg"></embed></figure>
