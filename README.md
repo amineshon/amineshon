@@ -11,6 +11,8 @@
   </p>
 
 
+[![wakatime](https://wakatime.com/badge/user/1da6cff2-fbd7-4e58-938e-8736ad5df0f3.svg)](https://wakatime.com/@1da6cff2-fbd7-4e58-938e-8736ad5df0f3)
+
 in the first place, my perseverance may catch your eye, because I am always looking to practice and learn new things. I always try to have good friends and I always try to use the experiences of others
 
 
