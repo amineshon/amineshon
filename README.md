@@ -10,6 +10,7 @@
     </a>
   </p>
 
+[![wakatime](https://wakatime.com/badge/user/1da6cff2-fbd7-4e58-938e-8736ad5df0f3/project/0e77cb11-3d90-4679-8d71-adeb89c6cf84.svg)](https://wakatime.com/badge/user/1da6cff2-fbd7-4e58-938e-8736ad5df0f3/project/0e77cb11-3d90-4679-8d71-adeb89c6cf84)
 
 [![wakatime](https://wakatime.com/badge/user/1da6cff2-fbd7-4e58-938e-8736ad5df0f3.svg)](https://wakatime.com/@1da6cff2-fbd7-4e58-938e-8736ad5df0f3)
 
