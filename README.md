@@ -49,15 +49,12 @@ in the first place, my perseverance may catch your eye, because I am always look
   </a>
 </p>
 <br>
-
-
-
-<figure><embed src="https://wakatime.com/share/@amineshon/ebeb8ad8-a860-4e9f-aa63-68312b266c4f.svg"></embed></figure>
-
-
-
 <br>
-<br>
+ <p align="center">
+   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@amineshon/264a6658-1789-4927-b2b6-c50fb695ce8a.png" /></a>
+  </p>
     
 <figure><embed src="https://wakatime.com/share/@amineshon/6e9a429a-d521-4b1e-8338-1d01ca142832.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@amineshon/ebeb8ad8-a860-4e9f-aa63-68312b266c4f.svg"></embed></figure>
+
 
