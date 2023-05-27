@@ -66,6 +66,9 @@ in the first place, my perseverance may catch your eye, because I am always look
    <a align="left" href="https://www.buymeacoffee.com/amineshon">
             <img style="width: 20%;" src="https://aminmohammadi.me/links/bmc_qr.png" alt="buymeacoffee-icon">
            </a>
+   <a align="left" href="https://www.buymeacoffee.com/amineshon">
+            <img style="width: 20%;" src="https://s8.uupload.ir/files/download_fbl9.png" alt="buymeacoffee-icon">
+           </a>
   </p>
 
   
