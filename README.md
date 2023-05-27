@@ -57,7 +57,6 @@ in the first place, my perseverance may catch your eye, because I am always look
 <figure><embed src="https://wakatime.com/share/@amineshon/6e9a429a-d521-4b1e-8338-1d01ca142832.svg"></embed></figure>
 <figure><embed src="https://wakatime.com/share/@amineshon/ebeb8ad8-a860-4e9f-aa63-68312b266c4f.svg"></embed></figure>
 
-
  <p align="right">
     <a href="https://www.coffeebede.com/aminmohammadi">
       <img style="width: 20%;" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="من را یک قهوه مهمون کنید">
@@ -66,10 +65,14 @@ in the first place, my perseverance may catch your eye, because I am always look
   <p align="left">
        <a href="https://www.buymeacoffee.com/amineshon">
          <p>
+          <a href="https://www.buymeacoffee.com/amineshon">
            <img style="width: 20%;" src="https://aminmohammadi.me/links/bmc_qr.png" alt="buymeacoffee-icon">
+           </a>
          </p>
          <p>
+          <a href="https://www.buymeacoffee.com/amineshon">
             <img style="width: 20%;" src="https://aminmohammadi.me/links/yellow-button-bmc_qr.png" alt="buymeacoffee-icon">
+           </a>
          </p>
     </a>
   </p>
