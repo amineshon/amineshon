@@ -13,8 +13,16 @@
 
 [![wakatime](https://wakatime.com/badge/user/1da6cff2-fbd7-4e58-938e-8736ad5df0f3.svg)](https://wakatime.com/@1da6cff2-fbd7-4e58-938e-8736ad5df0f3)
 
-in the first place, my perseverance may catch your eye, because I am always looking to practice and learn new things. I always try to have good friends and I always try to use the experiences of others
-
+<p> In short, I enjoy innovation and creativity.</p>
+<p>
+I am always looking to learn;
+But on average, I code for 10 hours a day, and coding and developing applications and websites is one of my hobbies.
+In short, I enjoy my work </p>
+<p>
+ I don't consider myself very professional in this way because there are always great challenges to experience, but so far nothing has stopped me because I always look for ways to solve things in the best way.</p>
+ <p>
+I can introduce myself as a person with the spirit of team work and happy.
+  </p>
 
 <ul style="color: #f9bc2f !important">
             <li style="color: #f9bc2f !important">FrontEnd Developer</li>
