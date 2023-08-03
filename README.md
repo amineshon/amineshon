@@ -70,13 +70,23 @@ I can introduce myself as a person with the spirit of team work and happy.
                 <img style="width: 20%;" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="من را یک قهوه مهمون کنید">
              </a>
   </p>
-  <p align="center">
+
+
+
+<p align="left">
    <a align="left" href="https://www.buymeacoffee.com/amineshon">
-            <img style="width: 20%;" src="https://aminmohammadi.me/links/bmc_qr.png" alt="buymeacoffee-icon">
+     <p style="width: 20%;"> My Public Address to Receive BTCn :  </p>
            </a>
-   <a align="left" href="https://www.coffeebede.com/aminmohammadi">
-            <img style="width: 20%;" src="https://s8.uupload.ir/files/download_fbl9.png" alt="buymeacoffee-icon">
-           </a>
+  </p>
+  
+ ```javascript
+bc1qhqxs84kg8e370st46zsxcv346emxzmcct4lcvv
+```
+
+ <p align="left">
+   <a align="left" href="https://link.trustwallet.com/send?asset=c0&address=bc1qhqxs84kg8e370st46zsxcv346emxzmcct4lcvv">
+            <img style="width: 20%;" src="https://i.ibb.co/BLbgbdY/BTCWallet.jpg" alt="send BITCON for me">
+     </a>
   </p>
 
   
