@@ -72,22 +72,17 @@ I can introduce myself as a person with the spirit of team work and happy.
   </p>
 
 
+ <p style="width: 20%;"> My Public Address to Receive BTCn :  </p>
 
-<p align="left">
-   <a align="left" href="https://www.buymeacoffee.com/amineshon">
-     <p style="width: 20%;"> My Public Address to Receive BTCn :  </p>
-           </a>
-  </p>
+
   
  ```javascript
+
 bc1qhqxs84kg8e370st46zsxcv346emxzmcct4lcvv
+
 ```
 
- <p align="left">
-   <a align="left" href="https://link.trustwallet.com/send?asset=c0&address=bc1qhqxs84kg8e370st46zsxcv346emxzmcct4lcvv">
-            <img style="width: 20%;" src="https://i.ibb.co/BLbgbdY/BTCWallet.jpg" alt="send BITCON for me">
-     </a>
-  </p>
+
 
   
   
