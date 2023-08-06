@@ -72,7 +72,7 @@ I can introduce myself as a person with the spirit of team work and happy.
   </p>
 
 
- <p style="width: 20%;"> My Public Address to Receive BTCn :  </p>
+ <p style="width: 20%;"> My Public Address to Receive Bitcoin :  </p>
 
 
   
