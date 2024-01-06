@@ -5,8 +5,8 @@
 
  <p align="center">
     <a href="https://aminmohammadi.me/">
-      <img style="width: 15%;" src="https://aminmohammadi.me/github/sticker-hi.webp" alt="sticker">
-      <img style="width: 15%;" src="https://aminmohammadi.me/github/sticker.webp" alt="sticker">
+      <img style="width: 15%;" src="http://176.9.29.145/~aminmohammadi/links/github/sticker-hi.webp" alt="sticker">
+      <img style="width: 15%;" src="http://176.9.29.145/~aminmohammadi/links/github/sticker.webp" alt="sticker">
     </a>
   </p>
 
@@ -65,7 +65,7 @@ I can introduce myself as a person with the spirit of team work and happy.
 
 <p align="center">
    <a align="left" href="https://www.buymeacoffee.com/amineshon">
-            <img style="width: 20%;" src="https://aminmohammadi.me/links/yellow-button-bmc_qr.png" alt="buymeacoffee-icon">
+            <img style="width: 20%;" src="http://176.9.29.145/~aminmohammadi/links/yellow-button-bmc_qr.png" alt="buymeacoffee-icon">
            </a>
             <a align="right" href="https://www.coffeebede.com/aminmohammadi">
                 <img style="width: 20%;" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="من را یک قهوه مهمون کنید">
