@@ -14,16 +14,14 @@
 [![wakatime](https://wakatime.com/badge/user/1da6cff2-fbd7-4e58-938e-8736ad5df0f3.svg)](https://wakatime.com/@1da6cff2-fbd7-4e58-938e-8736ad5df0f3)
 
 <p> Hello World;</p>
+<p>
+I don’t just write code—I craft digital experiences. With a strong understanding of backend and server
+configuration, I bridge the gap between frontend and backend, creating seamless, high-performance applications.
+My background in digital marketing helps me turn challenges into intuitive user experiences. Passionate about
+innovation, teamwork, and continuous growth, I bring both vision and impact to every project.
+
+</p>
 <p> In short, I enjoy innovation and creativity.</p>
-<p>
-I am always looking to learn;
-But on average, I code for 10 hours a day, and coding and developing applications and websites is one of my hobbies.
-In short, I enjoy my work </p>
-<p>
- I don't consider myself very professional in this way because there are always great challenges to experience, but so far nothing has stopped me because I always look for ways to solve things in the best way.</p>
- <p>
-I can introduce myself as a person with the spirit of team work and happy.
-  </p>
 
 <ul style="color: #f9bc2f !important">
             <li style="color: #f9bc2f !important">FrontEnd Developer</li>
