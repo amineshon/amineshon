@@ -1,22 +1,31 @@
 <h1 align="center">Amin Mohammadi</h1>
 
 <p align="center">
-  <strong>Frontend-First Engineer</strong>
+  <strong>Software Developer · Full-Stack</strong>
 </p>
 
 <p align="center">
-  React · Next.js · TypeScript · UI/UX · Design Systems
+  Frontend Engineering · Go · TypeScript · React · Next.js
 </p>
 
 <p align="center">
-  <a href="https://amineshon.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-amineshon.github.io-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  <a href="https://aminmohammadi.me">
+    <img src="https://img.shields.io/badge/Website-aminmohammadi.me-f9bc2f?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website">
   </a>
   <a href="https://github.com/amineshon">
-    <img src="https://img.shields.io/badge/GitHub-amineshon-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-amineshon-18181B?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/aminmohammadi">
-    <img src="https://img.shields.io/badge/LinkedIn-Amin%20Mohammadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://wakatime.com/@1da6cff2-fbd7-4e58-938e-8736ad5df0f3">
+    <img src="https://img.shields.io/badge/WakaTime-Activity-000000?style=for-the-badge&logo=wakatime" alt="WakaTime">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://aminmohammadi.me">
+    <img src="https://aminmohammadi.me/links/github/sticker-hi.webp" width="180" alt="Amin Mohammadi">
+  </a>
+  <a href="https://aminmohammadi.me">
+    <img src="https://aminmohammadi.me/links/github/sticker.webp" width="180" alt="Amin Mohammadi">
   </a>
 </p>
 
@@ -24,151 +33,101 @@
 
 ## Hello World 👋
 
-I'm **Amin Mohammadi**, a **Frontend-First Engineer** focused on building fast, scalable, and carefully crafted web interfaces.
+I'm **Amin Mohammadi**, a **Full-Stack Software Developer** focused on building scalable, performant, and maintainable software.
 
-My core stack is:
+My primary focus is the intersection of **Frontend Engineering and Backend Development with Go**.
 
-**TypeScript · React · Next.js · JavaScript · HTML/CSS**
+I work across the stack — from **frontend architecture, UI systems, and real-time interfaces** to **APIs, backend services, and infrastructure**.
 
-I care about more than making interfaces work.
+My core technologies are:
+
+**Go · TypeScript · React · Next.js · JavaScript**
 
 I care about:
 
-* Pixel-accurate UI
-* Performance
-* UX and interaction design
-* Design systems
-* Maintainable frontend architecture
-* Real-time applications
-* Shipping products end-to-end
-
-I keep backend and DevOps intentionally lean — enough **Node.js, Docker, and CI/CD** to own and ship a feature independently without losing focus on my core craft: **frontend engineering**.
+* Scalable software architecture
+* High-performance frontend applications
+* Backend services and APIs
+* Real-time systems
+* Maintainable codebases
+* UI/UX and design systems
+* Shipping complete features end-to-end
 
 ---
 
 ## What I Do
 
 ```text
+Software Development
+├── Full-Stack Applications
+├── Software Architecture
+├── API & Service Development
+├── Real-Time Systems
+└── Performance Optimization
+
 Frontend Engineering
 ├── React
 ├── Next.js
 ├── TypeScript
-├── JavaScript
 ├── State Management
-├── Real-time Applications
-└── Performance Optimization
-
-Product & Design
 ├── UI/UX
-├── Design Systems
-├── Figma
-├── Interaction Design
-└── Pixel-perfect Implementation
+└── Design Systems
 
-Engineering Infrastructure
-├── Node.js
-├── Docker
-├── CI/CD
-└── WebSocket
-
-Exploration
-├── AI-assisted Development
+Backend Engineering
 ├── Go
-└── Solidity / Blockchain
+├── Node.js
+├── REST APIs
+├── WebSocket
+└── SQL
+
+Infrastructure
+├── Docker
+├── Linux
+├── Git
+└── CI/CD
 ```
 
 ---
 
 ## Tech Stack
 
-### Core
+### Core Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,html,css" alt="Core technologies">
+  <img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,js,html,css" alt="Core technologies">
 </p>
 
-### Product & Engineering
+### Backend & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,nodejs,docker,git,github" alt="Product and engineering technologies">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,docker,linux,postgres,git,github" alt="Backend and infrastructure technologies">
+</p>
+
+### Design & Product
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Design technologies">
 </p>
 
 ### Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,solidity" alt="Technologies I'm exploring">
+  <img src="https://skillicons.dev/icons?i=solidity" alt="Technologies I'm exploring">
 </p>
 
 ---
 
 ## AI-Native Workflow
 
-AI is part of my development workflow — not a replacement for engineering judgment.
+AI is part of my development workflow — used to accelerate implementation, exploration, refactoring, and problem solving.
 
 ```text
 Cursor       → Daily development
-Claude Code  → Agentic refactoring & scaffolding
-Bugbot       → PR review before merge
-Copilot      → Inline development velocity
+Claude Code  → Agentic development & refactoring
+Bugbot       → Automated code review
+Copilot      → Development assistance
 ChatGPT      → Architecture & problem solving
 ```
-
-> AI accelerates the craft.
-> Frontend taste, architecture, and design judgment still decide the result.
-
----
-
-## Experience
-
-### Kardan Investment Bank
-
-**Software Developer · Frontend**
-`2024 — Present`
-
-* Frontend architecture cleanup
-* Redux-backed application flows
-* Ownership of investment-banking interfaces
-* Performance and maintainability improvements
-
-### Tavazon · Tejarat Brokerage
-
-**Software Developer · Frontend**
-`2023`
-
-* Redux + RxJS
-* Real-time application flows
-* WebSocket optimization
-* Reduced WebSocket latency by approximately 25%
-* Atomic UI system development
-
-### Alpha Cloud · Playpod
-
-**Frontend Developer**
-`2022`
-
-* Next.js applications
-* SEO-focused frontend development
-* HLS live streaming
-* WebSocket bridge between web applications and Qt
-
-### Max · AZKI · BitMax
-
-**Frontend Developer**
-`2019`
-
-* Insurance platforms
-* Cryptocurrency exchange interfaces
-* Wallet applications
-* BTC · ETH · BUSD · TRX
-
-### Gaj International
-
-**Web Developer**
-`2017`
-
-* High-concurrency WordPress systems
-* CRM wallboards
-* SEO-oriented publishing platforms
 
 ---
 
@@ -220,71 +179,4 @@ ChatGPT      → Architecture & problem solving
       alt="WakaTime coding activity"
     />
   </a>
-</p>
-
----
-
-## Certifications & Education
-
-| Type           | Institution                 | Subject               |
-| -------------- | --------------------------- | --------------------- |
-| 🎓 Degree      | Islamic Azad University     | Computer Science      |
-| 📜 Course      | UC Davis                    | JavaScript            |
-| 📜 Course      | Meta                        | Front-End Development |
-| 📜 Certificate | City & Guilds · UK          | Web Development       |
-| 📜 Certificate | Iran Blockchain Association | Blockchain            |
-
----
-
-## GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/amineshon">
-    <img src="https://github-profile-trophy.vercel.app/?username=amineshon&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies">
-  </a>
-</p>
-
----
-
-## Languages
-
-`English` · `فارسی` · `Deutsch` · `Türkçe`
-
----
-
-## A Few Words From People I've Worked With
-
-> “One of the best front-end developers I’ve collaborated with — he thinks like a designer.”
-
-— **Majid Khodabandeh**, Product Designer
-
----
-
-## Let's Build Something Sharp
-
-I'm open to:
-
-* Frontend engineering opportunities
-* Remote roles
-* Product collaborations
-* Interesting frontend problems
-* UI/UX-heavy applications
-* Real-time web applications
-
-<p align="center">
-  <a href="mailto:amin.mha5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amin.mha5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://amineshon.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>© Amin Mohammadi</sub>
 </p>
