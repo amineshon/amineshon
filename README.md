@@ -1,88 +1,290 @@
-<h1 align="center">
-  <b>Amin Mohammadi</b>
-</h1>
-
-
- <p align="center">
-    <a href="https://aminmohammadi.me/">
-      <img style="width: 15%;" src="http://176.9.29.145/~aminmohammadi/links/github/sticker-hi.webp" alt="sticker">
-      <img style="width: 15%;" src="http://176.9.29.145/~aminmohammadi/links/github/sticker.webp" alt="sticker">
-    </a>
-  </p>
-
-
-[![wakatime](https://wakatime.com/badge/user/1da6cff2-fbd7-4e58-938e-8736ad5df0f3.svg)](https://wakatime.com/@1da6cff2-fbd7-4e58-938e-8736ad5df0f3)
-
-<p> Hello World;</p>
-<p>
-I don’t just write code—I craft digital experiences. With a strong understanding of backend and server
-configuration, I bridge the gap between frontend and backend, creating seamless, high-performance applications.
-My background in digital marketing helps me turn challenges into intuitive user experiences. Passionate about
-innovation, teamwork, and continuous growth, I bring both vision and impact to every project.
-
-</p>
-<p> In short, I enjoy innovation and creativity.</p>
-
-<ul style="color: #f9bc2f !important">
-            <li style="color: #f9bc2f !important">FrontEnd Developer</li>
-            <li  style="color: #f9bc2f !important">Blockchain Developer</li>
-          </ul>
-
-
-
-```javascript
-<script>
-  function contact_me() {
-    const name = "Amin Mohammadi"
-    let jobTittle = "FrontEnd & Blockchain Developer"
-    let email = "info@aminmohammadi.me"
-    let webSite = "aminmohammadi.me"
-    let phone = 00989307131093
-  }
-</script>
-```
-
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://aminmohammadi.me/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=amineshon&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=amineshon&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-<br>
- <p align="center">
-   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@amineshon/264a6658-1789-4927-b2b6-c50fb695ce8a.png" /></a>
-  </p>
-    
-<figure><embed src="https://wakatime.com/share/@amineshon/6e9a429a-d521-4b1e-8338-1d01ca142832.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@amineshon/ebeb8ad8-a860-4e9f-aa63-68312b266c4f.svg"></embed></figure>
+<h1 align="center">Amin Mohammadi</h1>
 
 <p align="center">
-   <a align="left" href="https://www.buymeacoffee.com/amineshon">
-            <img style="width: 20%;" src="http://176.9.29.145/~aminmohammadi/links/yellow-button-bmc_qr.png" alt="buymeacoffee-icon">
-           </a>
-            <a align="right" href="https://www.coffeebede.com/aminmohammadi">
-                <img style="width: 20%;" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="من را یک قهوه مهمون کنید">
-             </a>
-  </p>
+  <strong>Frontend-First Engineer</strong>
+</p>
 
+<p align="center">
+  React · Next.js · TypeScript · UI/UX · Design Systems
+</p>
 
- <p style="width: 20%;"> My Public Address to Receive Bitcoin :  </p>
+<p align="center">
+  <a href="https://amineshon.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-amineshon.github.io-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/amineshon">
+    <img src="https://img.shields.io/badge/GitHub-amineshon-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/aminmohammadi">
+    <img src="https://img.shields.io/badge/LinkedIn-Amin%20Mohammadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
+---
 
-  
- ```javascript
+## Hello World 👋
 
-bc1qhqxs84kg8e370st46zsxcv346emxzmcct4lcvv
+I'm **Amin Mohammadi**, a **Frontend-First Engineer** focused on building fast, scalable, and carefully crafted web interfaces.
 
+My core stack is:
+
+**TypeScript · React · Next.js · JavaScript · HTML/CSS**
+
+I care about more than making interfaces work.
+
+I care about:
+
+* Pixel-accurate UI
+* Performance
+* UX and interaction design
+* Design systems
+* Maintainable frontend architecture
+* Real-time applications
+* Shipping products end-to-end
+
+I keep backend and DevOps intentionally lean — enough **Node.js, Docker, and CI/CD** to own and ship a feature independently without losing focus on my core craft: **frontend engineering**.
+
+---
+
+## What I Do
+
+```text
+Frontend Engineering
+├── React
+├── Next.js
+├── TypeScript
+├── JavaScript
+├── State Management
+├── Real-time Applications
+└── Performance Optimization
+
+Product & Design
+├── UI/UX
+├── Design Systems
+├── Figma
+├── Interaction Design
+└── Pixel-perfect Implementation
+
+Engineering Infrastructure
+├── Node.js
+├── Docker
+├── CI/CD
+└── WebSocket
+
+Exploration
+├── AI-assisted Development
+├── Go
+└── Solidity / Blockchain
 ```
 
+---
 
+## Tech Stack
 
-  
-  
-  
+### Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,html,css" alt="Core technologies">
+</p>
+
+### Product & Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,nodejs,docker,git,github" alt="Product and engineering technologies">
+</p>
+
+### Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,solidity" alt="Technologies I'm exploring">
+</p>
+
+---
+
+## AI-Native Workflow
+
+AI is part of my development workflow — not a replacement for engineering judgment.
+
+```text
+Cursor       → Daily development
+Claude Code  → Agentic refactoring & scaffolding
+Bugbot       → PR review before merge
+Copilot      → Inline development velocity
+ChatGPT      → Architecture & problem solving
+```
+
+> AI accelerates the craft.
+> Frontend taste, architecture, and design judgment still decide the result.
+
+---
+
+## Experience
+
+### Kardan Investment Bank
+
+**Software Developer · Frontend**
+`2024 — Present`
+
+* Frontend architecture cleanup
+* Redux-backed application flows
+* Ownership of investment-banking interfaces
+* Performance and maintainability improvements
+
+### Tavazon · Tejarat Brokerage
+
+**Software Developer · Frontend**
+`2023`
+
+* Redux + RxJS
+* Real-time application flows
+* WebSocket optimization
+* Reduced WebSocket latency by approximately 25%
+* Atomic UI system development
+
+### Alpha Cloud · Playpod
+
+**Frontend Developer**
+`2022`
+
+* Next.js applications
+* SEO-focused frontend development
+* HLS live streaming
+* WebSocket bridge between web applications and Qt
+
+### Max · AZKI · BitMax
+
+**Frontend Developer**
+`2019`
+
+* Insurance platforms
+* Cryptocurrency exchange interfaces
+* Wallet applications
+* BTC · ETH · BUSD · TRX
+
+### Gaj International
+
+**Web Developer**
+`2017`
+
+* High-concurrency WordPress systems
+* CRM wallboards
+* SEO-oriented publishing platforms
+
+---
+
+## GitHub
+
+<p align="center">
+  <a href="https://github.com/amineshon">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=amineshon&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+      alt="Amin's GitHub statistics"
+    />
+  </a>
+  <a href="https://github.com/amineshon">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineshon&layout=compact&theme=transparent&hide_border=true"
+      alt="Amin's most used languages"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amineshon">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=amineshon&theme=transparent&hide_border=true"
+      alt="Amin's GitHub streak"
+    />
+  </a>
+</p>
+
+---
+
+## Coding Activity
+
+<p align="center">
+  <a href="https://wakatime.com/@1da6cff2-fbd7-4e58-938e-8736ad5df0f3">
+    <img
+      src="https://wakatime.com/badge/user/1da6cff2-fbd7-4e58-938e-8736ad5df0f3.svg"
+      alt="WakaTime"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@amineshon">
+    <img
+      src="https://wakatime.com/share/@amineshon/264a6658-1789-4927-b2b6-c50fb695ce8a.png"
+      alt="WakaTime coding activity"
+    />
+  </a>
+</p>
+
+---
+
+## Certifications & Education
+
+| Type           | Institution                 | Subject               |
+| -------------- | --------------------------- | --------------------- |
+| 🎓 Degree      | Islamic Azad University     | Computer Science      |
+| 📜 Course      | UC Davis                    | JavaScript            |
+| 📜 Course      | Meta                        | Front-End Development |
+| 📜 Certificate | City & Guilds · UK          | Web Development       |
+| 📜 Certificate | Iran Blockchain Association | Blockchain            |
+
+---
+
+## GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/amineshon">
+    <img src="https://github-profile-trophy.vercel.app/?username=amineshon&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies">
+  </a>
+</p>
+
+---
+
+## Languages
+
+`English` · `فارسی` · `Deutsch` · `Türkçe`
+
+---
+
+## A Few Words From People I've Worked With
+
+> “One of the best front-end developers I’ve collaborated with — he thinks like a designer.”
+
+— **Majid Khodabandeh**, Product Designer
+
+---
+
+## Let's Build Something Sharp
+
+I'm open to:
+
+* Frontend engineering opportunities
+* Remote roles
+* Product collaborations
+* Interesting frontend problems
+* UI/UX-heavy applications
+* Real-time web applications
+
+<p align="center">
+  <a href="mailto:amin.mha5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amin.mha5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://amineshon.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>© Amin Mohammadi</sub>
+</p>
